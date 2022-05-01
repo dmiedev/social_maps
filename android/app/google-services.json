@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "276440789746",
+    "firebase_url": "https://socialmaps-625d3.firebaseio.com",
+    "project_id": "socialmaps-625d3",
+    "storage_bucket": "socialmaps-625d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276440789746:android:e3eb1b1a2f8ce7e887166b",
+        "android_client_info": {
+          "package_name": "dev.dmie.social_maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276440789746-oh168vu4tpsf0aa72qmqi9gi4kegbr08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHHxSAUaocuixJrlHEM2osrBAtLCODT1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276440789746-oh168vu4tpsf0aa72qmqi9gi4kegbr08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
